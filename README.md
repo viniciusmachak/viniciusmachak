@@ -41,7 +41,6 @@
 ## 📊 Estatísticas  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=viniciusmachak&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"/>
   <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmachak&theme=radical&layout=compact&langs_count=9"/>
 </div>
 
